@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685021213 source:c:\users\gilvandro\documents\cadastrocovid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+
+1684763236 source:c:\users\gilvandro\documents\cadastrocovid\cadastropaciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
